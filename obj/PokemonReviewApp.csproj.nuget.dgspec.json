@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shahzaib Laptopsd\\Documents\\Net Core Projects\\Pokemon\\PokemonReviewApp\\PokemonReviewApp.csproj": {}
+    "c:\\Users\\Shahzaib Laptopsd\\Documents\\Net Core Projects\\Pokemon\\PokemonReviewApp\\PokemonReviewApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shahzaib Laptopsd\\Documents\\Net Core Projects\\Pokemon\\PokemonReviewApp\\PokemonReviewApp.csproj": {
+    "c:\\Users\\Shahzaib Laptopsd\\Documents\\Net Core Projects\\Pokemon\\PokemonReviewApp\\PokemonReviewApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shahzaib Laptopsd\\Documents\\Net Core Projects\\Pokemon\\PokemonReviewApp\\PokemonReviewApp.csproj",
+        "projectUniqueName": "c:\\Users\\Shahzaib Laptopsd\\Documents\\Net Core Projects\\Pokemon\\PokemonReviewApp\\PokemonReviewApp.csproj",
         "projectName": "PokemonReviewApp",
-        "projectPath": "C:\\Users\\Shahzaib Laptopsd\\Documents\\Net Core Projects\\Pokemon\\PokemonReviewApp\\PokemonReviewApp.csproj",
+        "projectPath": "c:\\Users\\Shahzaib Laptopsd\\Documents\\Net Core Projects\\Pokemon\\PokemonReviewApp\\PokemonReviewApp.csproj",
         "packagesPath": "C:\\Users\\Shahzaib Laptopsd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shahzaib Laptopsd\\Documents\\Net Core Projects\\Pokemon\\PokemonReviewApp\\obj\\",
+        "outputPath": "c:\\Users\\Shahzaib Laptopsd\\Documents\\Net Core Projects\\Pokemon\\PokemonReviewApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shahzaib Laptopsd\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -39,6 +39,14 @@
           "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.5, )"
             },
