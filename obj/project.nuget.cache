@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+flKn0KdA/DArq6oGJCCpiBY1MlP46eIFYOW+QbOMzHcAtuwI4/LlsHdNcAvY7wYLPUf+xT73eOLHx9Rx4M7DA==",
+  "dgSpecHash": "sgkFPgj3Fw5e0JMPxn+CI9jheuUaPI4jFMCnFFHMOhmCr2MHNuxcZIAx/EAyH7NLqA2TcqdhhzRmqeQMx5aGOA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Shahzaib Laptopsd\\Documents\\Net Core Projects\\Pokemon\\PokemonReviewApp\\PokemonReviewApp.csproj",
+  "projectFilePath": "C:\\Users\\Shahzaib Laptopsd\\Documents\\Net Core Projects\\Pokemon\\PokemonReviewApp\\PokemonReviewApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shahzaib Laptopsd\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Shahzaib Laptopsd\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
